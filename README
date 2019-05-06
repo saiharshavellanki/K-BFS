@@ -1,0 +1,5 @@
+Implemented K-bfs algorithm in OpenMp,Cuda and RV algorithm in OpenMp from the attached Research Paper.
+- bfs1,bfs2,bfs3 are 3 ideas for implementing k-bfs in OpenMp
+- kbfs.cu and newkbfs.cu are ideas for implementing k-bfs in Cuda
+
+- Input Datasets are specified in the paper
